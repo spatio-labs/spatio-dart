@@ -3,7 +3,7 @@
 #
 
 name: 'spatio_sdk'
-version: '0.0.1'
+version: '0.0.2'
 description: Dart SDK for the SpatioAPI. Generated from the official OpenAPI spec.
 homepage: https://www.spatio.app/developers/docs/sdk
 environment:
